@@ -1,0 +1,42 @@
+.hero-section{
+  position: relative;
+  height: 90vh;
+  width: 100vw;
+}
+#background-video {
+  object-fit: cover;
+
+  }
+  
+  
+  h1, h2, #btnVideo{
+  
+  color: white;
+  
+  font-family: Trebuchet MS;
+  
+  font-weight: bold;
+  
+  text-align: center;
+  
+  }
+  
+  h1 {
+  font-size: 4rem;
+  margin-top: 30vh;
+  }
+  
+  h2 { font-size: 3rem; }
+  
+  #btnVideo{
+  font-size: 1.5rem;
+  background: 0;
+  border: 0;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  }
+ul{
+  display: flex;
+  justify-content: end;
+  align-items: first baseline;
+}
