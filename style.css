@@ -104,10 +104,16 @@ width: 200px;
 .divided {
   display: flex;
   flex-direction: column;
-  margin-bottom: 10px;
+  margin-bottom: 90px;
+
 }
 .divided img {
   height: 150px;
+}
+button{
+  font-style: oblique;
+  color: black;
+  background-color: beige;
 }
 .presta {
   display: flex;
